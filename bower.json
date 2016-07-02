@@ -1,0 +1,36 @@
+{
+  "name": "deverest",
+  "description": "Simple portfolio to represent myself and what I do",
+  "main": "",
+  "authors": [
+    "emerge <i.i.babko@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "web",
+    "development",
+    "web",
+    "design",
+    "seo"
+  ],
+  "homepage": "https://github.com/IgorBabko/deverest",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.9.0",
+    "jarallax": "^1.6.3",
+    "masonry": "^4.1.0",
+    "social-likes": "^3.1.0",
+    "bootstrap": "^3.3.6",
+    "animate.css": "^3.5.2",
+    "smooth-scroll.js": "^9.1.4",
+    "imagesloaded": "^4.1.0",
+    "bootstrap-carousel-swipe": "*"
+  }
+}

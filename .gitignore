@@ -1,0 +1,16 @@
+/vendor
+/node_modules
+/bower_components
+
+/public/storage
+/public/css
+/public/js
+Homestead.yaml
+Homestead.json
+.env
+
+!/public/css/bootstrap.min.css
+!/public/css/socicon.css
+!/public/css/mobirise
+!/public/js/social-likes.js
+!/public/js/mobirise
