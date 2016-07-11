@@ -39,5 +39,7 @@ elixir(function(mix) {
         // .copy('bower_components/social-likes/src/social-likes.js', 'public/js')
         .copy('bower_components/imagesloaded/imagesloaded.pkgd.min.js', 'public/js')
         .copy('bower_components/animate.css/animate.min.css', 'public/css')
-        .copy('bower_components/bootstrap-carousel-swipe/carousel-swipe.js', 'public/js');
+        .copy('bower_components/bootstrap-carousel-swipe/carousel-swipe.js', 'public/js')
+        .copy('bower_components/magnific-popup/dist/magnific-popup.css', 'public/css')
+        .copy('bower_components/magnific-popup/dist/jquery.magnific-popup.min.js', 'public/js');
 });

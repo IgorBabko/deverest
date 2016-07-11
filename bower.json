@@ -31,6 +31,7 @@
     "animate.css": "^3.5.2",
     "smooth-scroll.js": "^9.1.4",
     "imagesloaded": "^4.1.0",
-    "bootstrap-carousel-swipe": "*"
+    "bootstrap-carousel-swipe": "*",
+    "magnific-popup": "^1.1.0"
   }
 }

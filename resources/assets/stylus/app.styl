@@ -1,0 +1,52 @@
+@import 'partials/Navbar'
+
+@import 'sections/Main'
+@import 'sections/Service'
+@import 'sections/Portfolio'
+@import 'sections/Email'
+@import 'sections/Contacts'
+
+@import 'components/Button'
+@import 'components/Input'
+@import 'components/Textarea'
+@import 'components/Label'
+
+
+h1, h2, h3, h4, h5, h6
+    font-family: 'Open Sans'
+    letter-spacing: 3px
+    font-size: 40px
+    text-transform: uppercase
+
+// portfolio gallery animation
+.mfp-with-zoom .mfp-container,
+.mfp-with-zoom.mfp-bg
+    opacity: 0
+    -webkit-backface-visibility: hidden
+    -webkit-transition: all 0.3s ease-out
+    -moz-transition: all 0.3s ease-out
+    -o-transition: all 0.3s ease-out
+    transition: all 0.3s ease-out
+
+.mfp-with-zoom.mfp-ready .mfp-container
+    opacity: 1
+
+.mfp-with-zoom.mfp-ready.mfp-bg
+    opacity: 0.8
+
+
+.mfp-with-zoom.mfp-removing .mfp-container,
+.mfp-with-zoom.mfp-removing.mfp-bg
+    opacity: 0
+
+
+.mfp-wrap
+    transition: all 0.5s ease-in-out
+    background-color: rgba(0,0,0,0.2)
+
+
+.mfp-ready
+    background-color: rgba(0,0,0,0.7)
+
+.mfp-removing
+    background-color: rgba(0,0,0,0.2)

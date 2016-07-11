@@ -10,5 +10,6 @@
 <script src="js/carousel-swipe.js"></script>
 <script src="js/mobirise/script.js"></script>
 <script src="js/mobirise/gallery.js"></script>
+<script src="js/jquery.magnific-popup.min.js"></script>
 
 <script src="js/app.js"></script>
