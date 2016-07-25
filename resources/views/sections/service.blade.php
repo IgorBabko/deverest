@@ -5,7 +5,7 @@
             <div>
                 <div class="thumbnail">
                     <div class="image">
-                        <img class="undefined" src="/img/icons/design.png">
+                        <img class="undefined" src="/img/icons/web_design.png">
                     </div>
                     <div class="caption">
                         <div>
@@ -24,7 +24,7 @@
             <div>
                 <div class="thumbnail">
                     <div class="image">
-                        <img class="undefined" src="/img/icons/dev.png">
+                        <img class="undefined" src="/img/icons/web_development.png">
                     </div>
                     <div class="caption">
                         <div>
@@ -43,7 +43,7 @@
             <div>
                 <div class="thumbnail">
                     <div class="image">
-                        <img class="undefined" src="/img/icons/seo.png">
+                        <img class="undefined" src="/img/icons/seo1.png">
                     </div>
                     <div class="caption">
                         <div>
@@ -62,7 +62,7 @@
             <div>
                 <div class="thumbnail">
                     <div class="image">
-                        <img class="undefined" src="/img/icons/server.png">
+                        <img class="undefined" src="/img/icons/hosting.png">
                     </div>
                     <div class="caption">
                         <div>

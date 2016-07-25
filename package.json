@@ -10,7 +10,10 @@
     "laravel-elixir-livereload": "^1.1.4",
     "laravel-elixir-stylus": "^1.0.1",
     "poststylus": "^0.2.3",
-    "rucksack-css": "^0.8.5"
+    "rucksack-css": "^0.8.5",
+    "autoprefixer": "^6.3.7",
+    "lost": "^7.0.3",
+    "rucksack-css": "^0.8.6"
   },
   "dependencies": {
     "font-awesome": "^4.6.3"
